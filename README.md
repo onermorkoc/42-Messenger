@@ -37,4 +37,4 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Mesajları silin veya kopyalayın.<br/>
 
 # Ekran Görüntüleri
-<img src="" width="200">
+[Drive](https://drive.google.com/drive/folders/1-j1itK1tberNYaefViuTaVCvDM52J6aA?usp=sharing)
