@@ -40,6 +40,6 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Sohbetlerde link paylaşma.<br/>
 
 # Ekran Görüntüleri
-<img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-31.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-30.jpg" width="300">
+<img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-36.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-33.jpg" width="300">
 
 [Daha fazla ekran görüntüsü (drive)](https://drive.google.com/drive/folders/1-j1itK1tberNYaefViuTaVCvDM52J6aA?usp=sharing)
