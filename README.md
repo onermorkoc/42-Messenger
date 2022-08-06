@@ -18,6 +18,7 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ➡️[Qr code scanner library](https://github.com/yuriy-budiyev/code-scanner)<br/>
 ➡️[Qr code generator](https://github.com/zxing/zxing)<br/>
 ➡️[Glide](https://github.com/bumptech/glide)<br/>
+➡️[Coroutines](https://developer.android.com/kotlin/coroutines?gclid=Cj0KCQjworiXBhDJARIsAMuzAuyirwQkmqEXTkXUwRulIlNZGXIDtMGOmVfeNpM-sCcRtWLifySci58aAqVkEALw_wcB&gclsrc=aw.ds)<br/>
 
 # Özellikler
 ✅ E-posta ile kimlik doğrulama.<br/>
@@ -35,6 +36,8 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Hesap silin veya çıkış yapın.<br/>
 ✅ Sohbetleri silin.<br/>
 ✅ Mesajları silin veya kopyalayın.<br/>
+✅ Okunmamış mesaj sayısı.<br/>
+✅ Sohbetlerde link paylaşma.<br/>
 
 # Ekran Görüntüleri
 <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-31.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-30.jpg" width="300">
