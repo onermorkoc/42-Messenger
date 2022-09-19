@@ -30,6 +30,7 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Kişiyi engelleyin ve engeli kaldırın.<br/>
 ✅ Grup oluşturun ve katılın.<br/>
 ✅ Gece modu.<br/>
+✅ Bildirimleri almayı durdurun.</br>
 ✅ Türkçe ve ingilizce dil seçenekleri.<br/>
 ✅ Uygulama pin kilidi.<br/>
 ✅ Profil güncelleme (profil fotorafı, kullanıcı adı ve hakkında)<br/>
@@ -38,6 +39,7 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Mesajları silin veya kopyalayın.<br/>
 ✅ Okunmamış mesaj sayısı.<br/>
 ✅ Sohbetlerde link paylaşma.<br/>
+✅ Gruplarda yardımcı bot kullanın. [Bot kullanımı hakkında](https://github.com/onermorkoc/42-Messenger-Bot-Klavuz)</br>
 
 # Ekran Görüntüleri
 <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-36.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-33.jpg" width="300">
