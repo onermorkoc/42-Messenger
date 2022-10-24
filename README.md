@@ -19,16 +19,20 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ➡️[Qr code generator](https://github.com/zxing/zxing)<br/>
 ➡️[Glide](https://github.com/bumptech/glide)<br/>
 ➡️[Coroutines](https://developer.android.com/kotlin/coroutines?gclid=Cj0KCQjworiXBhDJARIsAMuzAuyirwQkmqEXTkXUwRulIlNZGXIDtMGOmVfeNpM-sCcRtWLifySci58aAqVkEALw_wcB&gclsrc=aw.ds)<br/>
+➡️[Image Compressor](https://github.com/Shouheng88/Compressor)<br/>
+➡️[Image Cropper](https://github.com/CanHub/Android-Image-Cropper)<br/>
 
 # Özellikler
 ✅ E-posta ile kimlik doğrulama.<br/>
 ✅ Qr code ile veya manuel kişi ekleyin ve silin.<br/>
-✅ Sohbetlerde resim gönderin.<br/>
+✅ Sohbetlerde fotoğraf gönderin.<br/>
+✅ Fotoğraflarda kırpma yapın.<br/>
 ✅ Hareketli emojiler gönderin<br/>
 ✅ Çevrimiçi, son görülme ve yazıyor durumları.<br/>
 ✅ Mesaj okundu bilgisi.<br/>
 ✅ Kişiyi engelleyin ve engeli kaldırın.<br/>
 ✅ Grup oluşturun ve katılın.<br/>
+✅ Grup kuralları belirleyin.<br/>
 ✅ Gece modu.<br/>
 ✅ Bildirimleri almayı durdurun.</br>
 ✅ Türkçe ve ingilizce dil seçenekleri.<br/>
@@ -37,11 +41,10 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Hesap silin veya çıkış yapın.<br/>
 ✅ Sohbetleri silin.<br/>
 ✅ Mesajları silin veya kopyalayın.<br/>
+✅ Mesajlarda düzenleme yapın.<br/>
 ✅ Okunmamış mesaj sayısı.<br/>
 ✅ Sohbetlerde link paylaşma.<br/>
 ✅ Gruplarda yardımcı bot kullanın. [Bot kullanımı hakkında](https://github.com/onermorkoc/42-Messenger-Bot-Klavuz)</br>
 
 # Ekran Görüntüleri
-<img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-36.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-33.jpg" width="300">
-
-[Daha fazla ekran görüntüsü (drive)](https://drive.google.com/drive/folders/1-j1itK1tberNYaefViuTaVCvDM52J6aA?usp=sharing)
+<img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_1.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_2.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_3.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_4.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_5.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_6.jpg" width="300"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_7.jpg"  width="300">
