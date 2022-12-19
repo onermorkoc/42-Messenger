@@ -1,6 +1,9 @@
 # 42-Messenger
 [Firebase](https://firebase.google.com/) ile bulut tabanlı bir chat uygulaması.
 
+# 42-Messenger Web
+[Ermand Haruni]() tarafından [ilk alpha sürümü](https://ermandh.github.io/42MessengerWeb)
+
 # Neden 42
 Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](https://www.42istanbul.com.tr/#:~:text=2013%20y%C4%B1l%C4%B1nda%20Paris'de%20kurulan,derece%20veya%20kodlama%20deneyimi%20gerekmiyor.)
 
