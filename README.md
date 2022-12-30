@@ -26,7 +26,7 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ➡️[Image Cropper](https://github.com/CanHub/Android-Image-Cropper)<br/>
 
 # Özellikler
-✅ E-posta ile kimlik doğrulama.<br/>
+✅ Google ile kimlik doğrulama (tek tıklamayla kayıt olun veya giriş yapın).<br/>
 ✅ Qr code ile veya manuel kişi ekleyin ve silin.<br/>
 ✅ Sohbetlerde fotoğraf gönderin.<br/>
 ✅ Fotoğraflarda kırpma yapın.<br/>
@@ -37,6 +37,8 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Grup oluşturun ve katılın.<br/>
 ✅ Grup kuralları belirleyin.<br/>
 ✅ Gece modu.<br/>
+✅ Uygulama içi ota güncelleme kontrolü.<br/>
+✅ Sohbetlerdeki baloncukların rengini dilediğiniz gibi özelleştirin.<br/>
 ✅ Bildirimleri almayı durdurun.</br>
 ✅ Türkçe ve ingilizce dil seçenekleri.<br/>
 ✅ Uygulama pin kilidi.<br/>
@@ -50,4 +52,4 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Gruplarda yardımcı bot kullanın. [Bot kullanımı hakkında](https://github.com/onermorkoc/42-Messenger-Bot-Klavuz)</br>
 
 # Ekran Görüntüleri
-<img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_1.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_2.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_3.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_4.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_5.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_6.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot_7.jpg"  width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/Screenshot-33.jpg"  width="200">
+<img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_1.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_2.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_3.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_4.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_5.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_6.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_7.jpg"  width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_8.jpg"  width="200">
