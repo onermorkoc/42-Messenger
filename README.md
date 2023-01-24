@@ -49,7 +49,7 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Mesajlarda düzenleme yapın.<br/>
 ✅ Okunmamış mesaj sayısı.<br/>
 ✅ Sohbetlerde link paylaşma.<br/>
-✅ Gruplarda yardımcı bot kullanın. [Bot kullanımı hakkında](https://github.com/onermorkoc/42-Messenger-Bot-Klavuz)</br>
+✅ Gruplarda yardımcı bot kullanın. [Bot kullanımı hakkında](https://github.com/onermorkoc/42-Messenger-Emoji/tree/main/Bot-Klavuz)</br>
 
 # Ekran Görüntüleri
 <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_1.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_2.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_3.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_4.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_5.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_6.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_7.jpg"  width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_8.jpg"  width="200">
