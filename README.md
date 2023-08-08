@@ -1,7 +1,7 @@
 # 42-Messenger-Jetpack-Compose
 Uygulamayı jetpack compose ile sıfırdan tekrar kodluyorum [(Source)](https://github.com/onermorkoc/42-Messenger/tree/main/src). Relaase deki eski buildlerde çökme vb olaylar olabilir. Modern 42 Messengerda görüşmek üzere 😉
 
-# 42-Messenger
+# <strike>42-Messenger
 [Firebase](https://firebase.google.com/) ile bulut tabanlı bir chat uygulaması.
 
 # 42-Messenger Web
@@ -53,6 +53,6 @@ Halihazırda okuduğum okulun adından gelmektedir. Bknz: [Ecole 42 İstanbul](h
 ✅ Okunmamış mesaj sayısı.<br/>
 ✅ Sohbetlerde link paylaşma.<br/>
 ✅ Gruplarda yardımcı bot kullanın. [Bot kullanımı hakkında](https://github.com/onermorkoc/42-Messenger-Emoji/tree/main/Bot-Klavuz)</br>
-
+</strike>
 # Ekran Görüntüleri
 <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_1.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_2.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_3.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_4.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_5.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_6.jpg" width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_7.jpg"  width="200"> <img src="https://github.com/onermorkoc/42-Messenger/blob/main/images/ScreenShot_8.jpg"  width="200">
