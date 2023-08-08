@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">42 Messenger</string>
+
+    <!-- Login Screen -->
+    <string name="hello">Hello</string>
+    <string name="homeScreenText">Sign in quickly with your Google account</string>
+    <string name="next">Next</string>
+
+    <!-- HomeScreen -->
+    <string name="settings">Settings</string>
+    <string name="chats">Chats</string>
+    <string name="status">Status</string>
+    <string name="groups">Groups</string>
+
+    <!-- ContactsScreen -->
+    <string name="contacts">Kişiler</string>
+    <string name="create_group">Create group</string>
+    <string name="join_group">Join group</string>
+
+    <!-- EditProfileScreen -->
+    <string name="profile">Profile</string>
+    <string name="fullname">Full name</string>
+    <string name="nickname">Nickname</string>
+    <string name="about">About me</string>
+    <string name="fullname_hint">Please enter a name</string>
+    <string name="nickname_hint">Please enter a nickname</string>
+    <string name="about_hint">Introduce yourself</string>
+
+</resources>

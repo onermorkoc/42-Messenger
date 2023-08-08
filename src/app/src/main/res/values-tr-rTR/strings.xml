@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Home Screen -->
+    <string name="hello">Merhaba</string>
+    <string name="homeScreenText">Google hesabınızla hızlı bir şekilde oturum açın</string>
+    <string name="next">Devam et</string>
+
+    <!-- HomeScreen -->
+    <string name="settings">Ayarlar</string>
+    <string name="chats">Sohbetler</string>
+    <string name="status">Durumlar</string>
+    <string name="groups">Gruplar</string>
+
+    <!-- ContactsScreen -->
+    <string name="contacts">Kişiler</string>
+    <string name="create_group">Grup oluştur</string>
+    <string name="join_group">Gruba katıl</string>
+
+    <!-- EditProfileScreen -->
+    <string name="profile">Profil</string>
+    <string name="fullname">Full isim</string>
+    <string name="nickname">Kullanıcı adı</string>
+    <string name="about">Hakkımda</string>
+    <string name="fullname_hint">Lütfen bir isim giriniz</string>
+    <string name="nickname_hint">Lütfen bir kullanıcı adı giriniz</string>
+    <string name="about_hint">Kendinizi tanıtın</string>
+
+</resources>
