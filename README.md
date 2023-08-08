@@ -1,5 +1,5 @@
 # 42-Messenger-Jetpack-Compose
-Uygulamayı jetpack compose ile sıfırdan tekrar kodluyorum [(Source)](https://github.com/onermorkoc/42-Messenger/tree/main/src). Relaase deki eski buildlerde çökme vb olaylar olabilir. Modern 42 Messengerda görüşmek üzere 😉
+Uygulamayı jetpack compose ile sıfırdan tekrar kodluyorum [(Source)](https://github.com/onermorkoc/42-Messenger/tree/main/src). Releases deki eski buildlerde çökme vb olaylar olabilir. Modern 42 Messengerda görüşmek üzere 😉
 
 # <strike>42-Messenger
 [Firebase](https://firebase.google.com/) ile bulut tabanlı bir chat uygulaması.
