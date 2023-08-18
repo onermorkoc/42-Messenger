@@ -1,10 +1,12 @@
 <resources>
+    <!-- No Translatable -->
     <string name="app_name" translatable="false">42 Messenger</string>
 
     <!-- Login Screen -->
     <string name="hello">Hello</string>
     <string name="homeScreenText">Sign in quickly with your Google account</string>
     <string name="next">Next</string>
+    <string name="fail">Fail !</string>
 
     <!-- HomeScreen -->
     <string name="settings">Settings</string>
@@ -25,5 +27,8 @@
     <string name="fullname_hint">Please enter a name</string>
     <string name="nickname_hint">Please enter a nickname</string>
     <string name="about_hint">Introduce yourself</string>
+
+    <!-- Componets-Mix -->
+    <string name="lang">Languages</string>
 
 </resources>

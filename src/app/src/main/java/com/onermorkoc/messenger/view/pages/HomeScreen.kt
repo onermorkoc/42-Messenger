@@ -39,9 +39,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import androidx.navigation.NavHostController
 import com.onermorkoc.messenger.R
-import com.onermorkoc.messenger.ui.theme._42MessengerTheme
+import com.onermorkoc.messenger.navigation.Routes
 import com.onermorkoc.messenger.view.componets.MActionButton
 import com.onermorkoc.messenger.view.componets.MSearchBar
 import com.onermorkoc.messenger.view.componets.SimpleHeader
@@ -49,11 +48,11 @@ import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
-fun HomeScreen(navController: NavHostController) {
+fun HomeScreen(navigate: (routes: Routes) -> Unit) {
 
     val chatsText = stringResource(id = R.string.chats)
     var headerText by remember { mutableStateOf(chatsText) }
-    val pagerState =  rememberPagerState()
+    val pagerState = rememberPagerState {3} // burada ki 3 page size
     val coroutineScope = rememberCoroutineScope()
 
     Column(modifier = Modifier.fillMaxSize()) {
@@ -73,7 +72,7 @@ fun HomeScreen(navController: NavHostController) {
         }
         Papers(pagerState) { headerText = it }
         MActionButton(painter = painterResource(id = R.drawable.chat_bubble)) {
-            navController.navigate("ContactsScreen")
+            navigate(Routes.ContactsScreen)
         }
     }
 }
@@ -196,7 +195,6 @@ private fun Papers(pagerState: PagerState, onChange: (text: String) -> Unit){
     val statusText = stringResource(id = R.string.status)
 
     HorizontalPager(
-        pageCount = 3,
         state = pagerState,
         modifier = Modifier
             .fillMaxWidth()
@@ -243,7 +241,7 @@ private fun StatusPaper() {
 @Composable
 @Preview(showBackground = true, showSystemUi = true) 
 private fun HomeScreenPreview(){
-    _42MessengerTheme {
+    //_42MessengerTheme {
         // HomeScreen()
-    }    
+    //}
 }

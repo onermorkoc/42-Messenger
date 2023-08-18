@@ -12,3 +12,6 @@ val Pink40 = Color(0xFF7D5260)
 
 val BackgroundDay = Color(0xFFFFFBFE)
 val BackGroundNight = Color(0xFF1C1B1F)
+
+val svgLight = Color(0xFF646970)
+val svgNight = Color(0xFFFFFFFF)

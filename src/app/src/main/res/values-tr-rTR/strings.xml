@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Home Screen -->
+    <!-- Login Screen -->
     <string name="hello">Merhaba</string>
     <string name="homeScreenText">Google hesabınızla hızlı bir şekilde oturum açın</string>
     <string name="next">Devam et</string>
+    <string name="fail">Hata !</string>
 
     <!-- HomeScreen -->
     <string name="settings">Ayarlar</string>
@@ -25,5 +26,8 @@
     <string name="fullname_hint">Lütfen bir isim giriniz</string>
     <string name="nickname_hint">Lütfen bir kullanıcı adı giriniz</string>
     <string name="about_hint">Kendinizi tanıtın</string>
+
+    <!-- Componets-Mix -->
+    <string name="lang">Diller</string>
 
 </resources>

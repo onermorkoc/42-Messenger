@@ -23,13 +23,13 @@ import androidx.compose.ui.unit.dp
 import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 import com.bumptech.glide.integration.compose.GlideImage
 import com.onermorkoc.messenger.R
-import com.onermorkoc.messenger.ui.theme._42MessengerTheme
+import com.onermorkoc.messenger.navigation.Routes
 import com.onermorkoc.messenger.view.componets.BackButtonHeader
 import com.onermorkoc.messenger.view.componets.MActionButton
 import com.onermorkoc.messenger.view.componets.MTextField
 
 @Composable
-fun EditProfileScreen() {
+fun EditProfileScreen(navigate: (routes: Routes) -> Unit) {
 
     Box(modifier = Modifier.fillMaxSize()) {
 
@@ -125,7 +125,7 @@ private fun TextFields() {
 @Composable
 @Preview(showSystemUi = true, showBackground = true)
 private fun EditProfileScreenPreview() {
-    _42MessengerTheme {
-        EditProfileScreen()
-    }
+    //_42MessengerTheme {
+        // EditProfileScreen()
+    //}
 }

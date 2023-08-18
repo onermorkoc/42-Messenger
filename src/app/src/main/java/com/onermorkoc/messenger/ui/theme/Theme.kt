@@ -3,7 +3,6 @@ package com.onermorkoc.messenger.ui.theme
 import android.annotation.SuppressLint
 import android.app.Activity
 import android.os.Build
-import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.dynamicDarkColorScheme
@@ -31,7 +30,7 @@ private val LightColorScheme = lightColorScheme(
 @SuppressLint("ComposableNaming")
 @Composable
 fun _42MessengerTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
+    darkTheme: Boolean,
     dynamicColor: Boolean = true,
     content: @Composable () -> Unit
 ) {

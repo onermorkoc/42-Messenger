@@ -15,6 +15,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme._42Messenger"
+        android:name=".di.HiltApp"
         tools:targetApi="31">
         <activity
             android:name=".view.pages.MainActivity"
